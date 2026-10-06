@@ -1,0 +1,14 @@
+# Private files (not for the public repository)
+PRESENTATION_QA.md
+PROJECT_PLAN.md
+proiect-1.pdf
+reference/
+
+# Jupyter / Python artefacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
